@@ -1,0 +1,18 @@
+box{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    animation:4s box linear;
+}
+@keyframes box{
+
+
+    0%{
+        background-color: aqua;
+    }
+    25%{
+        background-color: blueviolet;
+    }
+    50%{
+        background-color: chartreuse;
+    }
